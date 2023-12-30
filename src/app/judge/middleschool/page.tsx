@@ -1,4 +1,4 @@
-export default function Highschool(){
+export default function Middleschool(){
     return (
       <div className="flex flex-col items-center justify-center min-h-screen">
         <div className="flex flex-col items-center">
