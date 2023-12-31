@@ -21,3 +21,7 @@ body {
   color: #fff;
   background: #121212;
 }
+
+body input {
+  color: #000;
+}
